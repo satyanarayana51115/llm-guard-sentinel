@@ -23,19 +23,13 @@ A deterministic security barrier and guardrails engine designed to secure probab
 
 ## Key Security Capabilities:
 
-   ### ​Ingress Adversarial Defense: 
-   Real-time regex and pattern-matching barrier intercepting prompt injections and jailbreak attempts.
+* **​Ingress Adversarial Defense:** Real-time regex and pattern-matching barrier intercepting prompt injections and jailbreak attempts.
 
-   ### ​Pydantic Type Contract: 
-   Strict schema and role boundaries preventing unauthorized parameter escalation.
+* **Pydantic Type Contract:** Strict schema and role boundaries preventing unauthorized parameter escalation.
 
-   ### Deterministic Tool Barrier: 
-   Enforces whitelist-only execution models, preventing unauthorized actions or DB destructive payloads.
+* **Deterministic Tool Barrier:** Enforces whitelist-only execution models, preventing unauthorized actions or DB destructive payloads.
    
-   ### ​Automated Verification: 
-   Fully tested via PyTest test suites and dynamic attack simulation scripts.
-
----
+* **​Automated Verification:** Fully tested via PyTest test suites and dynamic attack simulation scripts.
 
 ## Verification & Execution:
 
